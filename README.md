@@ -153,6 +153,9 @@ This is *italic*, **bold**, and ~~struck~~.
 ```
 
 ---
+## To Make A Line 
+Use Triple * or Triple -
+***
 
 ## 🎨 Extra Styling Tips
 
